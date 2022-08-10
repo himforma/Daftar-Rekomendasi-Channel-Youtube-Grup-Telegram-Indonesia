@@ -2,7 +2,7 @@
 
 
 
-#### Tutorial - General (Frontend & Backend)
+#### Tutorial - Web programming (Frontend & Backend)
 
 | Nama Channel    | Teknologi                                                                                                  | URL                                             |
 | --------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
