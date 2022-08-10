@@ -1,14 +1,6 @@
 # Daftar Channel Youtube Programming & Teknologi Indonesia 🇮🇩
 
-Form :
 
-Youtube :
-
-[Web Programming UNPAS](https://www.youtube.com/c/WebProgrammingUNPAS) = [30++ Channel Youtube INDONESIA Untuk Belajar IT & Pemrograman](https://www.youtube.com/watch?v=GnXeKO1kAGY)
-
-GitHub :
-
-[github.com/sandhikagalih](https://github.com/sandhikagalih) = [github.com/sandhikagalih/channel-youtube-programming-dan-teknologi-indonesia/blob/main/readme.md](https://github.com/sandhikagalih/channel-youtube-programming-dan-teknologi-indonesia/blob/main/readme.md)
 
 #### Tutorial - General (Frontend & Backend)
 
@@ -146,3 +138,14 @@ GitHub :
 | Nama Channel                | Topik                                                   | URL                                                |
 | --------------------------- | ------------------------------------------------------- | -------------------------------------------------- |
 | Palembang Digital Community | Workshop, Startup, Karir, Interview, Programming, UI/UX | [link](https://www.youtube.com/c/PalembangDigital) |
+
+
+Form :
+
+Youtube :
+
+[Web Programming UNPAS](https://www.youtube.com/c/WebProgrammingUNPAS) = [30++ Channel Youtube INDONESIA Untuk Belajar IT & Pemrograman](https://www.youtube.com/watch?v=GnXeKO1kAGY)
+
+GitHub :
+
+[github.com/sandhikagalih](https://github.com/sandhikagalih) = [github.com/sandhikagalih/channel-youtube-programming-dan-teknologi-indonesia/blob/main/readme.md](https://github.com/sandhikagalih/channel-youtube-programming-dan-teknologi-indonesia/blob/main/readme.md)
