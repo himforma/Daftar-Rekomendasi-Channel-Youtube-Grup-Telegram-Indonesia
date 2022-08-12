@@ -81,6 +81,7 @@
 | ---------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Onno Center / Keamanan Siber | Cybersecurity, Cloud, AI, ML, Networking, IoT, Digital Economy, <br> OS, Livestreaming | [link](https://www.youtube.com/c/OnnoCenter) / [link](https://www.youtube.com/channel/UCry-Tkt5l3euMdQy4EXYfbg) |
 | Doddy Ferdiansyah            | Cyber Security, Networking, Cryptography                                               | [link](https://www.youtube.com/c/DoddyFerdiansyah)                                                              |
+| Semi Yulianto | Cybersecurity, Bug Bounty Hunting, Cyber Threat Hunting, Ethical Hacking Practical, Data Recovery, Application Security, Web App Hacking, Digital Forensics, Security Awareness, Application Security | [link](https://www.youtube.com/c/SemiYulianto) |
 
 <br><hr>
 
