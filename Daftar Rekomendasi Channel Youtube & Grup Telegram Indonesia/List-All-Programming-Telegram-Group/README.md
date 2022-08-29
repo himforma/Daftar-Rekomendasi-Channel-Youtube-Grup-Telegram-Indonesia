@@ -2,10 +2,6 @@
 
 Daftar grup terkait dengan bahasa pemrograman Indonesia.
 
-From :
-
-[github.com/hendisantika/List-All-Programming-Telegram-Group/blob/master/README.md](https://github.com/hendisantika/List-All-Programming-Telegram-Group/blob/master/README.md)
-
 ## List
 
 ### Programming Language
@@ -379,3 +375,7 @@ From :
   - [GIS Indonesia](https://t.me/gis_id)
   - [QGIS Indonesia](https://t.me/qgisindonesia)
   - [Leaflet.js Indonesia](https://t.me/leafletid)
+  
+From :
+
+[github.com/hendisantika/List-All-Programming-Telegram-Group/blob/master/README.md](https://github.com/hendisantika/List-All-Programming-Telegram-Group/blob/master/README.md)
